@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="income" attr.type="double"/>
+<graph edgedefault="undirected"><node id="ID0">
+  <data key="d0">0.8769291400225494</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID1">
+  <data key="d0">2.345989472990838</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID2">
+  <data key="d0">2.322247144029793</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID3">
+  <data key="d0">0.7903779171979544</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID4">
+  <data key="d0">1.8620947800925596</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID5">
+  <data key="d0">1.3129524822154237</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID6">
+  <data key="d0">1.3939552022621362</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID7">
+  <data key="d0">1.5484513936761872</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID8">
+  <data key="d0">1.2600840538938158</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID9">
+  <data key="d0">2.256291304157317</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID10">
+  <data key="d0">0.6641565510931773</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID11">
+  <data key="d0">1.481724921446301</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID12">
+  <data key="d0">2.2044660138788488</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID13">
+  <data key="d0">2.355634902183279</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID14">
+  <data key="d0">2.0864470123007246</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID15">
+  <data key="d0">1.2675228348188738</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID16">
+  <data key="d0">0.5180434465438182</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID17">
+  <data key="d0">0.8946518098208125</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID18">
+  <data key="d0">2.2792948499675347</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID19">
+  <data key="d0">1.8064675633852831</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID20">
+  <data key="d0">1.7243228451628783</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID21">
+  <data key="d0">1.71035094824606</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID22">
+  <data key="d0">1.5843740560307027</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID23">
+  <data key="d0">1.4940848388292345</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID24">
+  <data key="d0">1.2542620468047727</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID25">
+  <data key="d0">2.0282209715978983</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID26">
+  <data key="d0">1.0601719561490683</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID27">
+  <data key="d0">1.1249455034332816</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID28">
+  <data key="d0">1.6438748214798447</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID29">
+  <data key="d0">2.055627286094846</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID30">
+  <data key="d0">1.6761568121986696</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID31">
+  <data key="d0">0.7679628581406164</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID32">
+  <data key="d0">0.8004270682788901</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID33">
+  <data key="d0">0.763687186343297</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID34">
+  <data key="d0">1.1478628132956006</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID35">
+  <data key="d0">1.5663173584757426</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID36">
+  <data key="d0">1.7056741385795782</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID37">
+  <data key="d0">2.33793474492077</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID38">
+  <data key="d0">1.1084059209445882</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID39">
+  <data key="d0">2.0334951667440566</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID40">
+  <data key="d0">1.4822732896704127</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID41">
+  <data key="d0">2.270167170070428</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID42">
+  <data key="d0">0.7838975236820949</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID43">
+  <data key="d0">1.5423467545401524</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID44">
+  <data key="d0">0.8069390348765522</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID45">
+  <data key="d0">1.368082283711476</data>
+  <data key="d1">adult</data>
+</node>
+<node id="ID46">
+  <data key="d0">2.238024917293581</data>
+  <data key="d1">child</data>
+</node>
+<node id="ID47">
+  <data key="d0">2.299570462240039</data>
+  <data key="d1">adult</data>
+</node>
+<edge source="ID0" target="ID12"/>
+<edge source="ID0" target="ID17"/>
+<edge source="ID0" target="ID25"/>
+<edge source="ID0" target="ID32"/>
+<edge source="ID0" target="ID33"/>
+<edge source="ID0" target="ID37"/>
+<edge source="ID1" target="ID18"/>
+<edge source="ID1" target="ID25"/>
+<edge source="ID1" target="ID46"/>
+<edge source="ID2" target="ID4"/>
+<edge source="ID2" target="ID5"/>
+<edge source="ID2" target="ID12"/>
+<edge source="ID2" target="ID14"/>
+<edge source="ID2" target="ID24"/>
+<edge source="ID2" target="ID25"/>
+<edge source="ID2" target="ID26"/>
+<edge source="ID2" target="ID29"/>
+<edge source="ID2" target="ID35"/>
+<edge source="ID2" target="ID42"/>
+<edge source="ID3" target="ID8"/>
+<edge source="ID3" target="ID13"/>
+<edge source="ID3" target="ID21"/>
+<edge source="ID3" target="ID22"/>
+<edge source="ID3" target="ID25"/>
+<edge source="ID3" target="ID26"/>
+<edge source="ID3" target="ID31"/>
+<edge source="ID4" target="ID12"/>
+<edge source="ID4" target="ID31"/>
+<edge source="ID4" target="ID33"/>
+<edge source="ID4" target="ID35"/>
+<edge source="ID4" target="ID39"/>
+<edge source="ID5" target="ID14"/>
+<edge source="ID5" target="ID16"/>
+<edge source="ID5" target="ID17"/>
+<edge source="ID5" target="ID19"/>
+<edge source="ID5" target="ID21"/>
+<edge source="ID5" target="ID22"/>
+<edge source="ID5" target="ID26"/>
+<edge source="ID5" target="ID36"/>
+<edge source="ID5" target="ID38"/>
+<edge source="ID5" target="ID47"/>
+<edge source="ID6" target="ID10"/>
+<edge source="ID6" target="ID11"/>
+<edge source="ID6" target="ID13"/>
+<edge source="ID6" target="ID19"/>
+<edge source="ID6" target="ID34"/>
+<edge source="ID7" target="ID23"/>
+<edge source="ID7" target="ID36"/>
+<edge source="ID7" target="ID45"/>
+<edge source="ID8" target="ID21"/>
+<edge source="ID8" target="ID22"/>
+<edge source="ID8" target="ID26"/>
+<edge source="ID8" target="ID35"/>
+<edge source="ID9" target="ID11"/>
+<edge source="ID9" target="ID13"/>
+<edge source="ID9" target="ID18"/>
+<edge source="ID9" target="ID33"/>
+<edge source="ID9" target="ID44"/>
+<edge source="ID9" target="ID46"/>
+<edge source="ID10" target="ID17"/>
+<edge source="ID10" target="ID20"/>
+<edge source="ID10" target="ID33"/>
+<edge source="ID10" target="ID34"/>
+<edge source="ID10" target="ID40"/>
+<edge source="ID10" target="ID43"/>
+<edge source="ID11" target="ID18"/>
+<edge source="ID11" target="ID20"/>
+<edge source="ID11" target="ID27"/>
+<edge source="ID11" target="ID34"/>
+<edge source="ID11" target="ID41"/>
+<edge source="ID11" target="ID43"/>
+<edge source="ID11" target="ID44"/>
+<edge source="ID11" target="ID46"/>
+<edge source="ID12" target="ID14"/>
+<edge source="ID12" target="ID21"/>
+<edge source="ID12" target="ID22"/>
+<edge source="ID12" target="ID25"/>
+<edge source="ID12" target="ID26"/>
+<edge source="ID12" target="ID29"/>
+<edge source="ID12" target="ID41"/>
+<edge source="ID12" target="ID47"/>
+<edge source="ID13" target="ID20"/>
+<edge source="ID13" target="ID24"/>
+<edge source="ID13" target="ID25"/>
+<edge source="ID13" target="ID39"/>
+<edge source="ID13" target="ID47"/>
+<edge source="ID14" target="ID18"/>
+<edge source="ID14" target="ID28"/>
+<edge source="ID14" target="ID37"/>
+<edge source="ID14" target="ID41"/>
+<edge source="ID15" target="ID24"/>
+<edge source="ID15" target="ID26"/>
+<edge source="ID15" target="ID27"/>
+<edge source="ID15" target="ID44"/>
+<edge source="ID16" target="ID26"/>
+<edge source="ID16" target="ID31"/>
+<edge source="ID16" target="ID33"/>
+<edge source="ID17" target="ID19"/>
+<edge source="ID17" target="ID22"/>
+<edge source="ID17" target="ID33"/>
+<edge source="ID17" target="ID37"/>
+<edge source="ID18" target="ID20"/>
+<edge source="ID18" target="ID32"/>
+<edge source="ID18" target="ID34"/>
+<edge source="ID18" target="ID40"/>
+<edge source="ID19" target="ID20"/>
+<edge source="ID19" target="ID40"/>
+<edge source="ID19" target="ID47"/>
+<edge source="ID20" target="ID28"/>
+<edge source="ID20" target="ID36"/>
+<edge source="ID21" target="ID25"/>
+<edge source="ID21" target="ID29"/>
+<edge source="ID21" target="ID31"/>
+<edge source="ID21" target="ID39"/>
+<edge source="ID22" target="ID26"/>
+<edge source="ID22" target="ID29"/>
+<edge source="ID22" target="ID30"/>
+<edge source="ID22" target="ID37"/>
+<edge source="ID23" target="ID28"/>
+<edge source="ID23" target="ID34"/>
+<edge source="ID23" target="ID46"/>
+<edge source="ID24" target="ID25"/>
+<edge source="ID24" target="ID27"/>
+<edge source="ID24" target="ID34"/>
+<edge source="ID24" target="ID42"/>
+<edge source="ID24" target="ID45"/>
+<edge source="ID24" target="ID47"/>
+<edge source="ID25" target="ID29"/>
+<edge source="ID25" target="ID31"/>
+<edge source="ID26" target="ID30"/>
+<edge source="ID26" target="ID38"/>
+<edge source="ID26" target="ID40"/>
+<edge source="ID26" target="ID47"/>
+<edge source="ID27" target="ID28"/>
+<edge source="ID27" target="ID34"/>
+<edge source="ID27" target="ID42"/>
+<edge source="ID28" target="ID40"/>
+<edge source="ID28" target="ID43"/>
+<edge source="ID30" target="ID39"/>
+<edge source="ID32" target="ID40"/>
+<edge source="ID32" target="ID45"/>
+<edge source="ID32" target="ID46"/>
+<edge source="ID34" target="ID40"/>
+<edge source="ID34" target="ID43"/>
+<edge source="ID35" target="ID37"/>
+<edge source="ID35" target="ID38"/>
+<edge source="ID36" target="ID42"/>
+<edge source="ID36" target="ID45"/>
+<edge source="ID37" target="ID43"/>
+<edge source="ID37" target="ID47"/>
+<edge source="ID38" target="ID39"/>
+<edge source="ID39" target="ID40"/>
+<edge source="ID40" target="ID41"/>
+<edge source="ID40" target="ID46"/>
+<edge source="ID41" target="ID47"/>
+<edge source="ID44" target="ID45"/>
+</graph></graphml>
